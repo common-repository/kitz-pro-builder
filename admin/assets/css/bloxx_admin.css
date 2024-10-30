@@ -1,0 +1,532 @@
+#toplevel_page_bloxx-connect ul.wp-submenu li.wp-first-item {
+    display: none;
+}
+
+a.toplevel_page_bloxx-connect .wp-menu-image img {
+    margin-top: -5px;
+}
+
+.object-meta-data {
+    margin-bottom: 1em;
+}
+
+.toplevel_page_bloxx-connect .wp-menu-image img {
+    max-height: 20px;
+    width: 20px;
+}
+
+
+.toplevel_page_bloxx-connect .wp-menu-image {
+    line-height: 3;
+    font-size: 15px;
+}
+
+.neo_admin_logos img {
+    max-width: 125px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.object-meta-data .rest-api-controller-meta-data-table th {
+    font-weight: bold;
+}
+
+.object-meta-data .rest-api-controller-meta-data-table td {
+    padding: 11px 10px 11px 0;
+    text-align: center;
+}
+
+.alternate td input {
+    width: 97%;
+    padding: 5px 5px;
+}
+
+.siteblox-table {
+    border-spacing: 0;
+    width: 100%;
+    clear: both;
+    margin: 0;
+}
+
+.button-danger {
+    color: #fff !important;
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.button-danger:hover {
+    color: #fff !important;
+    background-color: #c82333 !important;
+    border-color: #bd2130 !important;
+}
+
+.button-success {
+    color: #fff !important;
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+.button-success:not(:disabled):not(.disabled).active, .button-success:not(:disabled):not(.disabled):active, .show>.button-success.dropdown-toggle{
+    color: #fff !important;
+    background-color: #1e7e34 !important;
+    border-color: #1c7430 !important;
+}
+
+.button-success:hover {
+    color: #fff !important;
+    background-color: #218838 !important;
+    border-color: #1e7e34 !important;
+}
+
+.button-pro {
+    color: #fff !important;
+    background-color: #1e7e34 !important;
+    border-color: #1c7430 !important;
+}
+
+.button-pro:hover {
+    color: #fff !important;
+    background-color: #218838 !important;
+    border-color: #1e7e34 !important;
+}
+
+
+.box-drop-section > div {
+    display: inline-block;
+    width: 36.7%;
+}
+
+/* blox dashboard page */
+.vertical-menu {
+    width: 250px;
+    z-index: 1001;
+    background: #fff;
+    bottom: 0;
+    margin-top: 0;
+    position: fixed;
+    top: 0;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+    box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
+}
+
+.main-content {
+    /* margin-left: 250px;*/
+    overflow: hidden;
+}
+
+.page-content {
+    padding: calc(10px + 24px) calc(24px / 2) 60px calc(24px / 2);
+}
+
+#sidebar-menu ul#side-menu {
+    padding: 0;
+}
+
+#sidebar-menu ul#side-menu li a {
+    display: block;
+    padding: 20px 1.5rem;
+    color: #a6b0cf;
+    position: relative;
+    font-size: 13px;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    text-decoration: none;
+}
+
+#sidebar-menu ul#side-menu li a:hover {
+    color: #fff;
+}
+
+.bloxx_box {
+    background: #fff;
+    padding: 30px 40px;
+    border: 1px solid #ddd;
+    position: relative;
+    max-height: 350px;
+    height: 100%;
+}
+
+.bloxx_box a.btn-primary {
+    color: #fff;
+    background: rgb(167 47 244);
+    background: -moz-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: -webkit-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: linear-gradient(135deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ae2df1', endColorstr='#7875ff', GradientType=1);
+    border: 0;
+    padding: .6875rem 1.5rem;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    max-width: 140px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.bloxx_box a.btn-trans {
+    color: #7b7b7b;
+    background-color: #fff;
+    border: 1px solid rgb(167 47 244);
+    padding: .6875rem 1.5rem;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.blx_logo p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+}
+
+.feature_box {
+    background: #fff;
+    padding: 30px 40px;
+    border: 1px solid #ddd;
+}
+
+.feature_box ul {
+    padding: 0;
+}
+
+.feature_box li {
+    list-style: none;
+    margin-bottom: 10px;
+    display: flex;
+    font-size: 14px;
+}
+
+.feature_box li i {
+    color: rgb(167 47 244);;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+
+.feature_box h2 {
+    margin-top: 0;
+}
+
+.height40px {
+    width: 100%;
+    height: 40px;
+}
+
+.feature_box img {
+    width: 100%;
+}
+
+.feature_box a.btn-primary {
+    color: #fff;
+    background: rgb(167 47 244);
+    background: -moz-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: -webkit-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: linear-gradient(135deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ae2df1', endColorstr='#7875ff', GradientType=1);
+    border: 0;
+    padding: .6875rem 1.5rem;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.rvideo img {
+    width: 100%;
+}
+
+.bottom_section {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 30px 40px;
+}
+
+.bottom_section h2.text-center {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.row.sel_title {
+    margin-top: 60px;
+}
+
+.rvideo a {
+    text-decoration: none;
+    color: #364a63;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.rvideo_content .logo {
+    float: right;
+    margin-top: 30px;
+}
+
+.row.rvideo_content {
+    margin-top: 30px;
+}
+
+.bloxx_box .kitz_form table {
+    background: none;
+    border: 0;
+    padding: 0;
+}
+
+.kitz_form th {
+    padding: 8px 0;
+}
+
+.kitz_form input {
+    width: 100%;
+    padding: 0 10px 0 0;
+    text-indent: 10px;
+    margin-bottom: 5px;
+    box-shadow: none;
+}
+
+.kitz_form .btn{
+    width: 100%;
+    padding: .6875rem 1.5rem;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.kitz_button, .kitz_button:hover, .kitz_button:active {
+    background: rgb(167 47 244);
+    background: -moz-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: -webkit-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: linear-gradient(135deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ae2df1', endColorstr='#7875ff', GradientType=1);
+    border: 0 !important;
+    color: #fff;
+    padding: .6875rem 1.5rem;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+    width: 30%;
+    display: inline-block;
+}
+
+
+.kitz_form .kitz_btn, .kitz_form .kitz_btn:hover, .kitz_form .kitz_btn:active, .kitz_form .kitz_btn:focus {
+    background: rgb(167 47 244);
+    background: -moz-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: -webkit-linear-gradient(-45deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    background: linear-gradient(135deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ae2df1', endColorstr='#7875ff', GradientType=1);
+    border: 0 !important;
+    width: 100%;
+    color: #fff;
+    padding: .6875rem 1.5rem;
+    font-size: .9375rem;
+    line-height: 1.25rem;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.alternate .select-box {
+    width: 100% !important;
+    padding: 5px !important;
+    max-width: 97% !important;
+    margin: 12px 0px 15px;
+}
+
+.kitz_form tr,
+.kitz_form td {
+    background: none !important;
+    padding: 0;
+}
+
+div#maincontent .col-sm-6.col-md-6.col-lg-3.col-3 {
+    display: flex;
+}
+
+.bloxx_box .blx-top {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.bloxx_box .blx-top h2 {
+    margin: 0;
+    font-size: 33px;
+    font-weight: 700;
+    display: block;
+    clear: both;
+}
+
+.bloxx_box .blx-top img {
+    margin-right: 10px;
+}
+
+
+.bloxx_box.blox_box_form {
+    max-height: 100%;
+    width: 35%;
+}
+
+.wrapper {
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+
+.drop {
+    width: 96%;
+    height: 96%;
+    border: 3px dashed #DADFE3;
+    border-radius: 15px;
+    overflow: hidden;
+    text-align: center;
+    border: 3px dashed rgb(218, 223, 227);
+    background: transparent none repeat scroll 0% 0%;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+/*    margin: auto;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.drop .cont {
+    height: 50%;
+    color: #8E99A5 !important;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.drop:hover {
+    background: #ccc;
+    border-color: #000;
+}
+
+.wp-admin input[type=file] {
+    padding: 3px 0;
+    cursor: pointer;
+}
+.drop input {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    opacity: 0;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#wpbody-content .main-title {
+    width: 70%;
+    background: #fff;
+    padding: 10px 30px;
+    margin-bottom: 25px;
+    border: 1px solid #ddd;
+}
+
+#wpbody-content .main-title p {
+    font-size: 16px;
+}
+
+#wpbody-content .main-title ul li {
+    list-style: none !important;
+    font-size: 14px;
+    line-height: 25px;
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+}
+
+#wpbody-content button.button.kitz_btn.premium {
+    background: linear-gradient(135deg, rgb(167 47 244) 0%, rgb(124 118 255) 100%);
+    color: #fff;
+    border: 0;
+    padding: 5px 20px;
+    float: right;
+    margin-top: 10px;
+}
+
+.box-drop-section {
+    display: flex;
+}
+.box-drop-section .first-sec {
+    margin-right: 20px;
+}
+
+@media (max-width: 767px) {
+	
+.box-drop-section {
+    display: flex;
+    flex-flow: row wrap;
+}	
+
+.box-drop-section .first-sec {
+    margin-right: 0;
+    flex: 0 0 85%;
+    max-width: 85%;
+    margin-bottom: 4rem;
+}
+
+.box-drop-section .second-sec {
+    margin-right: 0;
+    flex: 0 0 85%;
+    max-width: 85%;
+    margin-bottom: 4rem;
+}	
+
+.bloxx_box {
+    max-height: 400px;
+}
+
+#wpbody-content button.button.kitz_btn.premium {
+    float: none;
+}
+	
+}
+
+@media (max-width: 991px) {
+
+    .col-lg-4,
+    .col-md-6 {
+        display: flex;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+    }
+	.main-title h1 {
+		line-height: 30px;
+	}
+}

@@ -1,0 +1,9 @@
+.site-content .ast-container {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+}
+.enable_neo_builder #page #masthead, .enable_neo_builder #page .widget-area, .enable_neo_builder #page .site-footer {
+    display: block;
+}
